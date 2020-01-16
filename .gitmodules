@@ -1,0 +1,4 @@
+[submodule "ConsoleApp7"]
+	path = ConsoleApp7
+	url = https://github.com/budzow/ConsoleApp7.git
+	branch = master
